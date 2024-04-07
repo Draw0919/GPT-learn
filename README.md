@@ -5,3 +5,4 @@
 ---
 What I learned:
 * [Computational Biology](https://github.com/Draw0919/GPT-learn/issues/1#issue-2229328788)
+* [Google Hacking](https://github.com/Draw0919/GPT-learn/issues/2#issue-2229854222)
